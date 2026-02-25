@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+id = "lily_lime_theme"
+version = "1.0.0"
+name = "LiLy Lime"
+tagline = "A fresh LiLy Lime-inspired light theme for Blender"
+maintainer = "Eridanus"
+blender_version_min = "4.2.0"
+type = "theme"
+license = ["SPDX:MIT"]
+tags = ["Light", "Colorful", "Inspired By"]
+
+files = [
+    { path = "lily_lime.xml", type = "interface_theme" },
+]
+
+description = """
+A fresh and vibrant Blender theme inspired by LiLy Lime, featuring iconic cyan-green tones paired with pink accents.
+Optimized for readability and visual appeal, compatible with Blender 4.2+.
+"""
